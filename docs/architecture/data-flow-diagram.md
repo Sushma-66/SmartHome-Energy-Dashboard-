@@ -1,3 +1,8 @@
+
+---
+
+## 🔄 `docs/architecture/data-flow-diagram.md`
+
 ```markdown
 # 🔄 Data Flow Diagram (DFD)
 
@@ -5,5 +10,4 @@
 flowchart TD
 User --> UI --> API --> Database
 API --> SmartDeviceAPI
-yaml
-Copy code
+
