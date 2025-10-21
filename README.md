@@ -13,7 +13,7 @@ It includes:
 ---
 
 ## 🎯 Objective
-Showcase my ability to produce professional **software documentation** following SDLC and Agile–Scrum standards — without writing code.
+Showcase my ability to produce professional **software documentation** following SDLC and Agile–Scrum standards.
 
 ---
 
